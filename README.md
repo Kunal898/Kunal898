@@ -49,17 +49,6 @@ Visualization of CPU scheduling algorithms.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kunal898&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal898&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📈 GitHub Activity Graph
 
@@ -83,21 +72,6 @@ Visualization of CPU scheduling algorithms.
 
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/Kunal898/Kunal898/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Kunal898&label=Profile%20Views&color=blue&style=flat"/>
-
-</p>
 
 ---
 
