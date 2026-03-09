@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kunal Navdhinge</h1>
+<!-- Animated Header -->
 
-<p align="center">
-Cyber Security Enthusiast | Frontend Developer | AI Explorer
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=200&section=header&text=Kunal%20Navdhinge&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+<h2 align="center">Cyber Security Enthusiast | Frontend Developer | AI Explorer</h2>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Cyber+Security+Learner;Frontend+Developer;Building+Secure+Applications;Exploring+Artificial+Intelligence"/>
@@ -10,45 +10,46 @@ Cyber Security Enthusiast | Frontend Developer | AI Explorer
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 Diploma in Computer Engineering  
 - 🔐 Interested in **Cyber Security & Ethical Hacking**  
 - 💻 Building **Web Applications & Security Tools**  
-- 🤖 Exploring **Artificial Intelligence**
+- 🤖 Exploring **Artificial Intelligence**  
+- 🌍 Based in India
 
 ---
 
-## 🛠 Skills
+# 🛠 Skills
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,firebase,mysql"/>
 
 </p>
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
-🔹 **Stock Market Predictor**  
-Web application that predicts stock trends using APIs.
+### 🔹 Stock Market Predictor
+Web application that predicts stock trends using APIs and JavaScript.
 
-🔹 **Web Vulnerability Scanner**  
-Detects common OWASP security vulnerabilities.
+### 🔹 Web Vulnerability Scanner
+Security tool detecting OWASP vulnerabilities.
 
-🔹 **OS Scheduling Simulator**  
-Visual simulator for CPU scheduling algorithms.
+### 🔹 OS Scheduling Simulator
+Visualization of CPU scheduling algorithms.
 
 ---
 
-## 🌐 Portfolio
+# 🌐 Portfolio
 
 👉 https://kunal-portfolio-mauve.vercel.app/
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -60,7 +61,7 @@ Visual simulator for CPU scheduling algorithms.
 
 ---
 
-## 📈 Activity Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
@@ -70,13 +71,27 @@ Visual simulator for CPU scheduling algorithms.
 
 ---
 
-## 🐍 Contribution Snake
+# 📊 GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunal898&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kunal898&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kunal898&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Kunal898/Kunal898/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 👀 Profile Views
+# 👀 Profile Views
 
 <p align="center">
 
@@ -86,7 +101,7 @@ Visual simulator for CPU scheduling algorithms.
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -98,3 +113,9 @@ Visual simulator for CPU scheduling algorithms.
 ---
 
 ⭐ *Always learning and building secure systems.*
+
+---
+
+<!-- Animated Footer -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C2FF&height=120&section=footer"/>
