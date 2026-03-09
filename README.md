@@ -1,29 +1,56 @@
-<h1 align="center">
-⚡ Kunal Navdhinge ⚡
-</h1>
+<!-- CYBERPUNK HEADER -->
+
+<h1 align="center">⚡ Kunal Navdhinge ⚡</h1>
 
 <p align="center">
 Cyber Security Enthusiast | Frontend Developer | AI Explorer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=26&center=true&vCenter=true&width=700&lines=Cyber+Security+Researcher;Ethical+Hacking+Learner;Frontend+Developer;AI+Projects+Builder;Secure+System+Designer"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFF7&center=true&vCenter=true&width=700&lines=Cyber+Security+Learner;Ethical+Hacking+Explorer;Frontend+Developer;Building+Secure+Applications;AI+and+Automation+Projects"/>
 </p>
 
 ---
 
-# 🧠 About Me
+# 🎥 Coding Animation
 
-```diff
-+ Diploma in Computer Engineering
-+ Cyber Security & Ethical Hacking Enthusiast
-+ Building Web Applications and Security Tools
-+ Exploring Artificial Intelligence
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
+
+---
+
+# 💻 Hacker Terminal
+
+```bash
+> booting developer profile...
+
+user: kunal-navdhinge
+role: cyber security enthusiast
+
+loading modules...
+
+✔ web development
+✔ vulnerability scanning
+✔ operating system simulations
+✔ artificial intelligence projects
+
+system status: ONLINE
 ```
 
 ---
 
-# ⚙️ Tech Stack
+# 🚀 About Me
+
+- 🎓 Diploma in Computer Engineering  
+- 🔐 Passionate about Cyber Security & Ethical Hacking  
+- 💻 Frontend Developer building modern web apps  
+- 🤖 Exploring Artificial Intelligence  
+- 🌍 Based in India  
+
+---
+
+# ⚡ Tech Stack
 
 <p align="center">
 
@@ -33,20 +60,44 @@ Cyber Security Enthusiast | Frontend Developer | AI Explorer
 
 ---
 
+# 📊 Animated Skill Bars
+
+### Python
+![Python](https://progress-bar.dev/80/?title=Python&width=500&color=00ffcc)
+
+### JavaScript
+![JavaScript](https://progress-bar.dev/75/?title=JavaScript&width=500&color=00ffff)
+
+### HTML
+![HTML](https://progress-bar.dev/90/?title=HTML&width=500&color=ff00ff)
+
+### CSS
+![CSS](https://progress-bar.dev/85/?title=CSS&width=500&color=00ff99)
+
+---
+
 # 🚀 Featured Projects
 
-🔹 **Stock Market Predictor**  
+### 🔹 Stock Market Predictor
 Predicts stock trends using APIs and JavaScript.
 
-🔹 **Web Application Vulnerability Scanner**  
-Detects OWASP Top 10 vulnerabilities.
+### 🔹 Web Application Vulnerability Scanner
+Detects OWASP Top 10 vulnerabilities including headers, HTTPS usage and CORS configuration.
 
-🔹 **OS Scheduling Simulator**  
+### 🔹 OS Scheduling Simulator
 Visual simulator for CPU scheduling algorithms.
 
 ---
 
-# 📊 GitHub Statistics
+# 🌐 Portfolio
+
+Visit my portfolio website:
+
+👉 https://kunal-portfolio-mauve.vercel.app/
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -68,6 +119,22 @@ Visual simulator for CPU scheduling algorithms.
 
 ---
 
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal898&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/Kunal898/Kunal898/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -78,21 +145,11 @@ Visual simulator for CPU scheduling algorithms.
 
 ---
 
-# 📈 Activity Graph
+# 👀 Profile Visitors
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal898&theme=react-dark"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Kunal898&label=Visitors&color=00ff99&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Kunal898&label=Visitors&color=00ffff&style=flat"/>
 
 </p>
 
@@ -102,18 +159,22 @@ Visual simulator for CPU scheduling algorithms.
 
 <p align="center">
 
+<a href="https://github.com/Kunal898">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 <a href="https://linkedin.com">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://kunal898.github.io">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00ff99?style=for-the-badge"/>
+<a href="https://kunal-portfolio-mauve.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00FFF7?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
 
-# ⚡ Hacker Quote
+# ⚡ Cyber Security Quote
 
 > "Security is not a product, but a process."
