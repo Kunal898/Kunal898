@@ -1,8 +1,6 @@
 <!-- CYBERPUNK HEADER -->
 
-<h1 align="center">
-⚡ <span style="color:#00FFF7">Kunal Navdhinge</span> ⚡
-</h1>
+<h1 align="center">⚡ Kunal Navdhinge ⚡</h1>
 
 <p align="center">
 Cyber Security Enthusiast | Frontend Developer | AI Explorer
@@ -14,22 +12,41 @@ Cyber Security Enthusiast | Frontend Developer | AI Explorer
 
 ---
 
+# 🎥 Coding Animation
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
+
+---
+
 # 💻 Hacker Terminal
 
 ```bash
-> booting profile...
+> booting developer profile...
 
 user: kunal-navdhinge
-role: cyber security learner
+role: cyber security enthusiast
 
-loading skills...
+loading modules...
+
 ✔ web development
 ✔ vulnerability scanning
 ✔ operating system simulations
-✔ artificial intelligence labs
+✔ artificial intelligence projects
 
 system status: ONLINE
 ```
+
+---
+
+# 🚀 About Me
+
+- 🎓 Diploma in Computer Engineering  
+- 🔐 Passionate about Cyber Security & Ethical Hacking  
+- 💻 Frontend Developer building modern web apps  
+- 🤖 Exploring Artificial Intelligence  
+- 🌍 Based in India  
 
 ---
 
@@ -61,18 +78,26 @@ system status: ONLINE
 
 # 🚀 Featured Projects
 
-🔹 **Stock Market Predictor**  
+### 🔹 Stock Market Predictor
 Predicts stock trends using APIs and JavaScript.
 
-🔹 **Web Application Vulnerability Scanner**  
-Detects OWASP Top 10 vulnerabilities.
+### 🔹 Web Application Vulnerability Scanner
+Detects OWASP Top 10 vulnerabilities including headers, HTTPS usage and CORS configuration.
 
-🔹 **OS Scheduling Simulator**  
+### 🔹 OS Scheduling Simulator
 Visual simulator for CPU scheduling algorithms.
 
 ---
 
-# 📈 Live GitHub Stats
+# 🌐 Portfolio
+
+Visit my portfolio website:
+
+👉 https://kunal-portfolio-mauve.vercel.app/
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -94,7 +119,7 @@ Visual simulator for CPU scheduling algorithms.
 
 ---
 
-# 📊 Contribution Activity
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -104,7 +129,7 @@ Visual simulator for CPU scheduling algorithms.
 
 ---
 
-# 🐍 Commit Snake
+# 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Kunal898/Kunal898/blob/output/github-contribution-grid-snake.svg)
 
@@ -120,7 +145,7 @@ Visual simulator for CPU scheduling algorithms.
 
 ---
 
-# 👀 Profile Views
+# 👀 Profile Visitors
 
 <p align="center">
 
@@ -134,11 +159,15 @@ Visual simulator for CPU scheduling algorithms.
 
 <p align="center">
 
+<a href="https://github.com/Kunal898">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 <a href="https://linkedin.com">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://kunal898.github.io">
+<a href="https://kunal-portfolio-mauve.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-00FFF7?style=for-the-badge"/>
 </a>
 
@@ -146,6 +175,6 @@ Visual simulator for CPU scheduling algorithms.
 
 ---
 
-# ⚡ Cyberpunk Quote
+# ⚡ Cyber Security Quote
 
-> “Security is a process, not a product.”
+> "Security is not a product, but a process."
