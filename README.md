@@ -1,6 +1,8 @@
 <!-- Animated Header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00c6ff,100:0072ff&height=220&section=header&text=Kunal%20Navdhinge&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Cyber%20Security%20|%20Frontend%20Developer%20|%20AI%20Explorer&descAlignY=65&descAlign=50"/>
+<p align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="900"/>
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Kunal+Navdhinge;Cyber+Security+Enthusiast;Frontend+Developer;Building+Secure+Applications;AI+Explorer"/>
