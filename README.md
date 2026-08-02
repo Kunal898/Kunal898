@@ -16,20 +16,25 @@
 
 # 🚀 About Me
 
-🎓 Engineering Student (Computer Engineering)
+<div align="center">
 
-🛡️ Passionate about Cybersecurity & Ethical Hacking
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Initializing+Profile...;Loading+Developer+Information...;Access+Granted...;Welcome+to+My+GitHub!"/>
 
-📊 Learning Data Analytics using Python, SQL & Power BI
+</div>
 
-💻 Full Stack Web Developer
+````bash
+> whoami
 
-🤖 Exploring Artificial Intelligence & Machine Learning
-
-🌐 Open Source Learner
-
-📍 India
-
+Name        : Kunal Navdhinge
+Education   : Engineering Student (Computer Engineering)
+Role        : Cybersecurity Enthusiast
+Skills      : Python | SQL | Power BI | JavaScript | Java | C++
+Interest    : AI | Full Stack | Ethical Hacking | Data Analytics
+Tools       : Kali Linux | Burp Suite | Wireshark | Git | Docker
+Currently   : Building Real-World Security Projects
+Learning    : Machine Learning | Cloud Security | Penetration Testing
+Location    : India 🇮🇳
+Status      : Building Secure Projects 🚀
 ---
 
 # 💻 Tech Stack
@@ -38,7 +43,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,sql"/>
 
 </p>
 
@@ -54,7 +59,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase"/>
 
 </p>
 
@@ -62,7 +67,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 
 </p>
 
@@ -163,10 +168,7 @@ Interactive Encryption & Decryption Visualizer
 - Ethical Hacking
 - Digital Forensics
 - Penetration Testing
-- Machine Learning
-- Deep Learning
 - Cloud Security
-- Kubernetes
 - Advanced Python
 - Data Structures & Algorithms
 
