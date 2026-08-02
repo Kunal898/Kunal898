@@ -132,38 +132,44 @@ Status      : Learning • Building • Growing 🚀
 <div align="center">
 
 ### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,sql&perline=4" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,sql" />
+---
 
-<br><br>
+### 🎨 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&perline=5" />
+</p>
 
-### ⚡ Frontend Development
+---
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
+### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&perline=4" />
+</p>
 
-<br><br>
+---
 
-### 🔥 Backend Development
+### 🗄️ Databases & Backend Services
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,supabase&perline=4" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
+---
 
-<br><br>
+### ☁️ DevOps & Deployment
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vercel&perline=4" />
+</p>
 
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,supabase,postgres" />
-
-<br><br>
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,netlify" />
-
-<br><br>
+---
 
 ### 🧰 Development Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,androidstudio" />
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio&perline=2" />
+</p>
 
 </div>
 
