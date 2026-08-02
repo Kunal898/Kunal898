@@ -348,15 +348,6 @@ Status      : Learning • Building • Growing 🚀
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kunal898&theme=tokyonight&column=4&margin-w=20&margin-h=20&no-frame=true"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
@@ -368,15 +359,6 @@ Status      : Learning • Building • Growing 🚀
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Kunal898/Kunal898/output/github-snake.svg" alt="Snake animation"/>
-
-</div>
-
----
 
 # 🎯 2026 Goals
 
