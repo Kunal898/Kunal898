@@ -1,77 +1,196 @@
-<!-- Animated Header -->
+<!-- ========================= HEADER ========================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=200&section=header&text=Kunal%20Navdhinge&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00F5A0,50:00D9FF,100:7B61FF&text=Kunal%20Navdhinge&fontAlign=50&fontAlignY=38&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-<h2 align="center">Cyber Security Enthusiast | Frontend Developer | AI Explorer</h2>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Cyber+Security+Learner;Frontend+Developer;Building+Secure+Applications;Exploring+Artificial+Intelligence"/>
-</p>
+# 👋 Hi, I'm Kunal Navdhinge
+
+### 🛡️ Cybersecurity Enthusiast • 📊 Data Analytics Learner • 💻 Full Stack Developer • 🤖 AI Explorer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=00F5A0&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;Python+Developer;Data+Analytics+Learner;Full+Stack+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies"/>
+
+</div>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 Diploma in Computer Engineering  
-- 🔐 Interested in **Cyber Security & Ethical Hacking**  
-- 💻 Building **Web Applications & Security Tools**  
-- 🤖 Exploring **Artificial Intelligence**  
-- 🌍 Based in India
+🎓 Engineering Student (Computer Engineering)
+
+🛡️ Passionate about Cybersecurity & Ethical Hacking
+
+📊 Learning Data Analytics using Python, SQL & Power BI
+
+💻 Full Stack Web Developer
+
+🤖 Exploring Artificial Intelligence & Machine Learning
+
+🌐 Open Source Learner
+
+📍 India
 
 ---
 
-# 🛠 Skills
+# 💻 Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,firebase,mysql"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,sql"/>
+
+</p>
+
+### Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,flask"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux"/>
 
 </p>
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-### 🔹 Stock Market Predictor
-Web application that predicts stock trends using APIs and JavaScript.
+## 🛡️ IntruderEye
 
-### 🔹 Web Vulnerability Scanner
-Security tool detecting OWASP vulnerabilities.
+AI-powered Laptop Intrusion Detection & Remote Monitoring System
 
-### 🔹 OS Scheduling Simulator
-Visualization of CPU scheduling algorithms.
+✔ Face Recognition
+
+✔ Intruder Detection
+
+✔ Mobile Alerts
+
+✔ GPS Tracking
+
+✔ Evidence Collection
+
+✔ Screenshot Capture
 
 ---
 
-# 🌐 Portfolio
+## 🎣 AI Phishing Detection System
 
-👉 https://kunal-portfolio-mauve.vercel.app/
+- URL Analysis
+- Domain Reputation
+- SSL Verification
+- Machine Learning Detection
+- QR Code Scanner
+- Risk Score
 
 ---
 
+## 📊 Data Analytics Projects
 
-# 📈 GitHub Activity Graph
+- Python
+- Pandas
+- NumPy
+- SQL
+- Power BI
+- Data Visualization
+
+---
+
+## 🔐 Cryptography Algorithms App
+
+Interactive Encryption & Decryption Visualizer
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal898&theme=react-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kunal898&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal898&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Summary
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Kunal898&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal898&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Summary
 
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunal898&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kunal898&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kunal898&theme=tokyonight"/>
-
 </p>
 
+---
+
+# 📚 Currently Learning
+
+- Ethical Hacking
+- Digital Forensics
+- Penetration Testing
+- Machine Learning
+- Deep Learning
+- Cloud Security
+- Kubernetes
+- Advanced Python
+- Data Structures & Algorithms
+
+---
+
+# 🎯 2026 Goals
+
+✅ Data Analyst Internship
+
+✅ Cybersecurity Internship
+
+✅ Build Open Source Projects
+
+✅ Learn Cloud Computing
+
+✅ Master Python
+
+✅ Contribute to Open Source
+
+---
+
+# 🌐 Portfolio
+
+### 🔗 https://kunal-portfolio-mauve.vercel.app/
 
 ---
 
@@ -79,17 +198,30 @@ Visualization of CPU scheduling algorithms.
 
 <p align="center">
 
-<a href="https://github.com/Kunal898">GitHub</a> •
-<a href="https://kunal-portfolio-mauve.vercel.app/">Portfolio</a>
+<a href="https://github.com/Kunal898">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kunal-navdhinge">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://kunal-portfolio-mauve.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-⭐ *Always learning and building secure systems.*
+<div align="center">
+
+## 💡 "Learning Never Stops. Build • Break • Secure • Repeat."
+
+<img src="https://komarev.com/ghpvc/?username=Kunal898&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-<!-- Animated Footer -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C2FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7B61FF,50:00D9FF,100:00F5A0&section=footer"/>
