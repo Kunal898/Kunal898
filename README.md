@@ -1,123 +1,96 @@
 <!-- ========================= HEADER ========================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00F5A0,50:00D9FF,100:7B61FF&text=Kunal%20Navdhinge&fontAlign=50&fontAlignY=38&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5A0,50:00D9FF,100:7B61FF&text=Kunal%20Navdhinge&fontAlign=50&fontAlignY=40&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 
-# 👋 Hi, I'm Kunal Navdhinge
+</p>
 
-### 🛡️ Cybersecurity Enthusiast • 📊 Data Analytics Learner • 💻 Full Stack Developer • 🤖 AI Explorer
+<h1 align="center">👋 Hello, I'm Kunal Navdhinge</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=00F5A0&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;Python+Developer;Data+Analytics+Learner;Full+Stack+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies"/>
+<h3 align="center">
+🛡 Cybersecurity Enthusiast • 📊 Data Analytics Learner • 💻 Full Stack Developer
+</h3>
 
-</div>
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=750&color=00F5A0&lines=Cybersecurity+Enthusiast;Python+Developer;Data+Analytics+Learner;Full+Stack+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies"/>
+
+</p>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-<div align="center">
+<table>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Initializing+Profile...;Loading+Developer+Information...;Access+Granted...;Welcome+to+My+GitHub!"/>
+<tr>
 
-</div>
+<td width="60%">
 
-````bash
+```bash
 > whoami
 
 Name        : Kunal Navdhinge
-Education   : Engineering Student (Computer Engineering)
+Education   : Engineering Student
 Role        : Cybersecurity Enthusiast
-Skills      : Python | SQL | Power BI | JavaScript | Java | C++
-Interest    : AI | Full Stack | Ethical Hacking | Data Analytics
-Tools       : Kali Linux | Burp Suite | Wireshark | Git | Docker
-Currently   : Building Real-World Security Projects
-Learning    : Machine Learning | Cloud Security | Penetration Testing
+
+Skills       : Python
+             | Java
+             | JavaScript
+             | SQL
+             | Power BI
+             | HTML/CSS
+
+Frameworks  : React
+            | Node.js
+            | Express
+
+Interests   : Ethical Hacking
+            | AI
+            | Data Analytics
+            | Full Stack Development
+
+Currently   : Building Security Projects
+
 Location    : India 🇮🇳
-Status      : Building Secure Projects 🚀
----
 
-# 💻 Tech Stack
+Status      : Learning • Building • Growing 🚀
+```
 
-### Languages
+</td>
 
-<p>
+<td width="40%" align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,sql"/>
+<img width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-</p>
+</td>
 
-### Frameworks
+</tr>
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,flask"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-
-</p>
+</table>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛡️ IntruderEye
-
-AI-powered Laptop Intrusion Detection & Remote Monitoring System
-
-✔ Face Recognition
-
-✔ Intruder Detection
-
-✔ Mobile Alerts
-
-✔ GPS Tracking
-
-✔ Evidence Collection
-
-✔ Screenshot Capture
+| Project | Description |
+|---------|-------------|
+| 🛡 **IntruderEye** | AI-powered Laptop Intrusion Detection & Remote Monitoring |
+| 🎣 **AI Phishing Detection** | URL Analysis, ML Detection & Risk Scoring |
+| 📊 **Data Analytics Dashboard** | Python, SQL, Power BI & Visualization |
+| 🔐 **Cryptography Algorithms App** | Encryption & Hashing Visualizer |
+| 🌐 **Portfolio Website** | Responsive Developer Portfolio |
 
 ---
 
-## 🎣 AI Phishing Detection System
+# 💻 Tech Stack
 
-- URL Analysis
-- Domain Reputation
-- SSL Verification
-- Machine Learning Detection
-- QR Code Scanner
-- Risk Score
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,react,nodejs,express,mysql,mongodb,sqlite,firebase,git,github,vscode,docker,linux"/>
 
-## 📊 Data Analytics Projects
-
-- Python
-- Pandas
-- NumPy
-- SQL
-- Power BI
-- Data Visualization
-
----
-
-## 🔐 Cryptography Algorithms App
-
-Interactive Encryption & Decryption Visualizer
+</p>
 
 ---
 
@@ -125,9 +98,9 @@ Interactive Encryption & Decryption Visualizer
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kunal898&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kunal898&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal898&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal898&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -143,6 +116,16 @@ Interactive Encryption & Decryption Visualizer
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kunal898&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
 # 📈 Contribution Graph
 
 <p align="center">
@@ -153,64 +136,72 @@ Interactive Encryption & Decryption Visualizer
 
 ---
 
-# 🏆 GitHub Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunal898&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📚 Currently Learning
 
-- Ethical Hacking
-- Digital Forensics
-- Penetration Testing
-- Cloud Security
-- Advanced Python
-- Data Structures & Algorithms
+```text
+✔ Ethical Hacking
+✔ Data Analytics
+✔ Power BI
+✔ Machine Learning
+✔ Cloud Security
+✔ Docker
+✔ Kubernetes
+✔ Digital Forensics
+✔ Penetration Testing
+```
 
 ---
 
 # 🎯 2026 Goals
 
-✅ Data Analyst Internship
-
-✅ Cybersecurity Internship
-
-✅ Build Open Source Projects
-
-✅ Learn Cloud Computing
-
-✅ Master Python
-
-✅ Contribute to Open Source
+- 🚀 Land a Cybersecurity Internship
+- 📊 Become a Data Analyst
+- 🛡 Build Advanced Security Tools
+- 🌍 Contribute to Open Source
+- 💻 Master Full Stack Development
+- ☁ Learn Cloud & DevOps
 
 ---
 
-# 🌐 Portfolio
+# 🐍 Contribution Snake
 
-### 🔗 https://kunal-portfolio-mauve.vercel.app/
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Kunal898/Kunal898/output/github-snake.svg"/>
+
+</p>
 
 ---
 
-# 🤝 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/Kunal898">
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/kunal-navdhinge">
+
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="https://kunal-portfolio-mauve.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+
 </a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Kunal898&style=for-the-badge&color=blueviolet"/>
 
 </p>
 
@@ -218,12 +209,12 @@ Interactive Encryption & Decryption Visualizer
 
 <div align="center">
 
-## 💡 "Learning Never Stops. Build • Break • Secure • Repeat."
+# ⭐ Thanks for visiting!
 
-<img src="https://komarev.com/ghpvc/?username=Kunal898&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+### 💡 *"Code • Learn • Build • Secure • Repeat."*
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7B61FF,50:00D9FF,100:00F5A0&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7B61FF,50:00D9FF,100:00F5A0"/>
